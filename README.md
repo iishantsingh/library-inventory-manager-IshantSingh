@@ -1,4 +1,4 @@
-# Library Inventory Manager
+# 🖥️Library Inventory Manager
 
 This is a simple Python-based Library Inventory Management System created using
 Object-Oriented Programming (OOP). It uses a text file (`library.txt`) to
@@ -9,7 +9,7 @@ This version is implemented in a **single Python file**:
 
 ---
 
-# Features
+# 🚀Features
 
 - Add Book
 
@@ -32,7 +32,7 @@ This version is implemented in a **single Python file**:
 
 ---
 
-# Folder Structure
+# 📂Folder Structure
 
 ```
 library-inventory-manager-IshantSingh/
@@ -43,7 +43,7 @@ library-inventory-manager-IshantSingh/
 
 ```
 
-# Usage
+# 🌐Usage
 
 To run the Library Inventory Manager, simply execute the main Python file:
 
@@ -67,7 +67,9 @@ A menu-driven interface will appear in the terminal, allowing you to:
 All book data is automatically saved inside `library.txt`.
 
 ---
-# Screenshot
+
+
+# 📸Screenshot
 
 ![WhatsApp Image 2025-11-23 at 20 48 59_f8e51a85](https://github.com/user-attachments/assets/9eb12f6f-ff8f-4017-a235-d70c89e32483)
 
@@ -75,11 +77,16 @@ All book data is automatically saved inside `library.txt`.
 
 ---
 
-# Author
+# 🙌🏻Author
 
-**Name: Ishant Singh  
-**Roll No: 2501410067  
-**Course: B.Tech CSE (Cybersecurity)
+Name: Ishant Singh
+
+Roll No: 2501410067
+
+Course: B.Tech CSE (Cybersecurity)
+
+
+---
 
 
 
